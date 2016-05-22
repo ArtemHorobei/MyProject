@@ -10,6 +10,7 @@ namespace lr2
         static void Main(string[] args)
         {
             double num1 = 0, num2 = 0, num3 = 0, num4 = 0;
+            Console.WriteLine("MyProject to GitHub");
             Console.Write("Введите реальнучаю часть 1 числа:");
             num1 = Convert.ToDouble(Console.ReadLine());
             Console.Write("Введите мнимую часть 1 числа:");
